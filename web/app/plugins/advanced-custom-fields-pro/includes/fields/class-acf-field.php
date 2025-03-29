@@ -14,6 +14,8 @@ if ( ! class_exists( 'acf_field' ) ) :
         public array $default_values = [];
         public string $have_rows = '';
         public array $cloning = [];
+        public array $_values = [];
+        public bool $_all_checked ;
 
 		public $show_in_rest = true;
 
