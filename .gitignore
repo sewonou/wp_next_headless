@@ -20,6 +20,8 @@ web/app/cache/*
 !web/app/plugins/wp-graphql-blocks-acf-1.0.4
 !web/app/plugins/wp-graphql-meta-query-0.1.1
 !web/app/plugins/wp-graphql-offset-pagination-0.2.0
+!web/app/mu-plugins/disable-frontend.php
+!web/app/mu-plugin
 
 # WordPress
 web/wp
