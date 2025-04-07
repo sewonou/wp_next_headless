@@ -24,6 +24,9 @@ class Whip_RequirementsChecker {
 	 */
 	private $textdomain;
 
+    private $configuration;
+    private $messageManager;
+
 	/**
 	 * Whip_RequirementsChecker constructor.
 	 *
